@@ -25,3 +25,27 @@ It is part of the Lumina project ecosystem and follows a minimal, distraction-fr
 - Clean Qt6 interface
 
 ![Lumina Music Player Screenshot](docs/lmp.png)
+
+# Requirements
+
+Python 3.9+
+
+PyQt6
+
+mutagen
+
+pillow
+
+# Installation
+
+Clone the repository:
+
+git clone https://github.com/Shinobu-haruto/lumina-music-player.git
+cd lumina-music-player
+
+# Install dependencies:
+
+pip install -r requirements.txt
+
+# Run Program
+python lmp.py
